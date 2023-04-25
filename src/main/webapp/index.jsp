@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello book tickets from here!</h2>
+<h2>Hello book tickets for train!</h2>
 </body>
 </html>
